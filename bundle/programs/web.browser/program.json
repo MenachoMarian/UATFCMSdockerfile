@@ -1,0 +1,230 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "f1b16c78cc3f17aa520369cbe44e7488116e0f9b.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/f1b16c78cc3f17aa520369cbe44e7488116e0f9b.js?meteor_js_resource=true",
+      "size": 1397190,
+      "hash": "f1b16c78cc3f17aa520369cbe44e7488116e0f9b"
+    },
+    {
+      "path": "f1b16c78cc3f17aa520369cbe44e7488116e0f9b.stats.json",
+      "where": "client",
+      "type": "json",
+      "cacheable": true,
+      "url": "/f1b16c78cc3f17aa520369cbe44e7488116e0f9b.stats.json?meteor_js_resource=true",
+      "size": 28660,
+      "hash": "6ddeed0f8f642d9f1c1700ec33a6406fcc0c7f47"
+    },
+    {
+      "path": "e3a5a9e01f7fafb6c5d2a30a3605350f727ca8a6.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/e3a5a9e01f7fafb6c5d2a30a3605350f727ca8a6.css?meteor_css_resource=true",
+      "size": 259189,
+      "hash": "e3a5a9e01f7fafb6c5d2a30a3605350f727ca8a6"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.eot",
+      "size": 165742,
+      "hash": "5e3a1a9b72af1d842682f7e0a5c305922c583e3f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.svg",
+      "size": 444379,
+      "hash": "2958ef6f1890fda3f47468dedc70c2e1b2dd9511"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.ttf",
+      "size": 165548,
+      "hash": "dbaed61bd8235d7e12522b21ce66fb90a4f9740d"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff",
+      "size": 98024,
+      "hash": "951644ff8c02065fd58f609d142e45daaaa5370f"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/fontawesome-webfont.woff2",
+      "size": 77160,
+      "hash": "a34ffd10b2a49d55d6247e351520ffdf556e0bb1"
+    },
+    {
+      "path": "packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/fortawesome_fontawesome/upstream/fonts/FontAwesome.otf",
+      "size": 134808,
+      "hash": "cd12480a6626f5faf89ddd7ebb00edf64059498d"
+    },
+    {
+      "path": "packages/ostrio_files/worker.min.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/ostrio_files/worker.min.js",
+      "size": 625,
+      "hash": "6d127a96f8f989baa5999b29fe802006d746b553"
+    },
+    {
+      "path": "app/en-construccion.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/en-construccion.png",
+      "size": 70838,
+      "hash": "dae1654975a5589b494062313d5b446a581cefb6"
+    },
+    {
+      "path": "app/graduacion.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/graduacion.jpg",
+      "size": 289674,
+      "hash": "a8ab91b409f8f2ca8950dfa2e434e1ce82845877"
+    },
+    {
+      "path": "app/light-wave.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/light-wave.png",
+      "size": 1904002,
+      "hash": "2b0bb1f4de6389dfb47db4cbe70f057d3864ff86"
+    },
+    {
+      "path": "app/logo-diff.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logo-diff.svg",
+      "size": 2531,
+      "hash": "bbc991d5d6a02bc9e4542650411e5a93471d33ec"
+    },
+    {
+      "path": "app/logoc.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logoc.png",
+      "size": 96691,
+      "hash": "8c22b145d565a8392b7d122fd3cefa1cc7686d58"
+    },
+    {
+      "path": "app/logou.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/logou.png",
+      "size": 210568,
+      "hash": "020b80d8904cd54f0b66e81dc2f07e680d7a711c"
+    },
+    {
+      "path": "app/nature.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/nature.jpg",
+      "size": 491905,
+      "hash": "ed3e1c81dd9111775d2d0515568272de2669c37c"
+    },
+    {
+      "path": "app/robot-62.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/robot-62.jpg",
+      "size": 280027,
+      "hash": "18ad3512f4bfdec4e516ba282568feb1683a631e"
+    },
+    {
+      "path": "app/robot.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/robot.jpg",
+      "size": 26172,
+      "hash": "4d5f335c801df80e3b6ba947f0c33501436d5ddf"
+    },
+    {
+      "path": "app/students.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/students.jpg",
+      "size": 347962,
+      "hash": "387a9de6ce8962a388e4a450e0ed8c54b25ad10a"
+    },
+    {
+      "path": "app/user.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/user.png",
+      "size": 2601,
+      "hash": "f20f71d107242e45807df384ac9aae16352127fd"
+    },
+    {
+      "path": "app/vector-azul.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/vector-azul.png",
+      "size": 1448072,
+      "hash": "769772b5b6d1ed271f3dbabd02071a0a8ff6afd4"
+    },
+    {
+      "path": "app/font/summernote.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/summernote.eot",
+      "size": 16570,
+      "hash": "2e254b4d04ffac62b86c594f51b0e0da58793092"
+    },
+    {
+      "path": "app/font/summernote.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/summernote.ttf",
+      "size": 16384,
+      "hash": "ac8baff612be516be28adbc0e30f6863e8013816"
+    },
+    {
+      "path": "app/font/summernote.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/font/summernote.woff",
+      "size": 10184,
+      "hash": "054c840b13f7f172428a5462cdceed16ff9160e7"
+    }
+  ]
+}
